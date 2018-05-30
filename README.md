@@ -1,2 +1,2 @@
-# springangular
-Back  end java para front demo_gui
+# registro-asistencia
+Back  end java para front asistencia_gui
